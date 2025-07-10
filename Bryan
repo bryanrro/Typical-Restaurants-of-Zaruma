@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8">
+  <title>Restaurants</title>
+  <style>
+    body {
+      background-color: #f2f2f2;
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+
+    header {
+      background-color: #0077cc;
+      color: white;
+      padding: 20px;
+    }
+
+    section {
+      padding: 20px;
+    }
+
+    footer {
+      background-color: #333;
+      color: white;
+      padding: 10px;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+
+    a {
+      color: #0077cc;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>¡Welcome, Typical Restaurants of Zaruma!</h1>
+       <img src="img/zaruma.jpg" alt="foto" width="300">
+  </header>
+
+<h3 style="text-align: left;">On this gastronomic route, we will visit three of the most traditional restaurants in Zaruma.</h3>
+  <section>
+    <h2 style="color: rgb(162, 38, 38);">1. Cafetería Uno</h2>
+    <img src="img/fotorestaun.jpg" alt="foto" width="300">
+    <p>Our first stop is Cafetería Uno</strong>, it is located next to Miguel Sánchez School, in the center of Zaruma. This place was founded in 1982 and is known for its typical breakfasts and traditional snacks.</p>
+
+    <h2 style="color: rgb(162, 38, 38);">2.	Cocada Bar </h2>
+    <img src="img/cocadabar.png" alt="foto" width="300">
+    <ul>
+      <li>Our second stop is Cocada Bar, it is located under Radio Fuego, also close to the center of Zaruma. It is a small place where you can buy traditional sweets like cocadas, made with grated coconut and panela.</li>
+    </ul>
+
+    <h2 style="color: rgb(162, 38, 38);">3. A Lo Criollo</h2>
+      <img src="img/a lo ciollo.jpg" alt="foto" width="300">
+        <p>Our third stop is A to Criollo</strong>, it is a restaurant founded in April 2024. It blends traditional and modern flavors in its typical Ecuadorian dishes. It is located right in front of Zaruma's central park, just a few meters from Banco del Ecuador and five minutes on foot from the coliseum.</p>
+<h1></h1>
+  </section>
+  <h3>Location of Zaruma</h3>
+<iframe 
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15943.262438238034!2d-79.6180745297826!3d-3.688734000000011!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9033177f89ad4d3f%3A0xa476aa69d3eaa55!2sZaruma!5e0!3m2!1ses!2sec!4v1689881620598!5m2!1ses!2sec" 
+  width="300" height="250" style="border:0;" allowfullscreen="" loading="lazy">
+</iframe>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+  <footer>
+
+<p>
+  <a href="https://www.instagram.com/bryan_ro1" target="_blank">
+    <button style="padding: 10px 20px; border: none; background-color: #e4405f; color: white; border-radius: 5px;">Instagram</button>
+  </a>
+</p>
+    <p>webmaster: Bryan Román - 2025</p>
+  </footer>
+
+</body>
+</html>
